@@ -1,6 +1,6 @@
-baseURL: "https://example.com"
+baseURL: "https://www.casojesuitas.net/"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "Caso Jesuitas"
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
 
