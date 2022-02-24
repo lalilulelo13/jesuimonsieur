@@ -6,7 +6,6 @@ title: 'La UCA pide “no instrumentalizar políticamente” la reapertura de la
 excerpt: ''
 date: 2022-02-22T06:00:00+00:00
 hero: "/images/martires-uca_1628847280_10883149_660x371.jpg"
-draft: true
 
 ---
 **La casa de estudios exige que el caso no sea una estrategia política y que también no se juegue con los anhelos y sufrimientos de las víctimas.**
