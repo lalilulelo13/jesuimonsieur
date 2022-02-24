@@ -40,3 +40,5 @@ fields:
   type: tag_list
   default: []
   label: Authors
+pages:
+- content/post/la-uca-pide-no-instrumentalizar-politicamente-la-reapertura-de-la-masacre-de-los-jesuitas.md
