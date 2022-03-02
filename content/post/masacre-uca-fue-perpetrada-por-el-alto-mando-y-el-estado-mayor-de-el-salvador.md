@@ -5,7 +5,6 @@ title: " Masacre UCA fue perpetrada por el Alto Mando y el Estado Mayor de El Sa
 excerpt: ''
 date: 2022-03-01T06:00:00+00:00
 hero: "/images/banner-de-ysuca-21-1.png"
-draft: true
 
 ---
 **La Compañía de Jesús no duda en afirmar que la autoría fue estrictamente militar y descarta la participación de Alfredo Cristiani en el caso Jesuitas.**
