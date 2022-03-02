@@ -6,7 +6,6 @@ title: '"El Gobierno y las instituciones judiciales bajo su control se ven más 
 excerpt: ''
 date: 2022-03-01T06:00:00+00:00
 hero: "/images/martires-uca_2396770319_15802112_667x375.jpg"
-draft: true
 
 ---
 El pasado enero, los magistrados de la Sala de lo Constitucional de la Corte Suprema de Justicia (CSJ) de El Salvador invalidaron la decisión tomada por la Sala de lo Penal de la CSJ que en septiembre de 2020 cerró el proceso penal por el asesinato de seis sacerdotes jesuitas y dos de sus colaboradoras, ocurrido el 16 de noviembre de 1989.
