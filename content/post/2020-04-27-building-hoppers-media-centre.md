@@ -1,7 +1,7 @@
 ---
 title: Autores intelectuales de jesuitas fueron militares
-date: 2022-02-18T06:00:00+00:00
-hero: "/images/spdoxryyurco7kz7kap6lwomji.jpg"
+date: 2022-02-18T06:00:00.000+00:00
+hero: "/images/51281971_101.jpg"
 excerpt: ''
 timeToRead: 8
 authors: []
