@@ -22,11 +22,6 @@ Aseguró que ha trabajado más de 30 años para que se establezca la verdad, que
 
 Sin embargo, el fiscal general, Rodolfo Delgado, quien fue electo inconstitucionalmente, acusa a Alfredo Cristiani de ser uno de los autores intelectuales de la masacre, pero ahora con la nueva acusación se le atribuye el delito de comisión por omisión en el caso de la masacre de la UCA.
 
-    <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Así el análisis que hace Benjamín Cuéllar, exdirector de <a href="https://twitter.com/idhuca?ref_src=twsrc%5Etfw">@idhuca</a>, sobre la resolución del caso del asesinato de la UCA, conocido también como el <a href="https://twitter.com/hashtag/CasoJesuitas?src=hash&amp;ref_src=twsrc%5Etfw">#CasoJesuitas</a>.<br><br>Vía: <a href="https://twitter.com/AlexisJuarezSV?ref_src=twsrc%5Etfw">@AlexisJuarezSV</a> <a href="https://t.co/NcJToI9MyM">pic.twitter.com/NcJToI9MyM</a></p>&mdash; Telenoticias21 GMV (@TN21sv) <a href="https://twitter.com/TN21sv/status/1502677804776890368?ref_src=twsrc%5Etfw">March 12, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-    
-
-Cuellar no duda en afirmar que el actual gobierno y sus voceros mienten de manera descarada en el caso de la masacre de la UCA, incluso aclaró que no es asesor del fiscal, como lo han difundido para tergiversar sus declaraciones.
-
 En un comunicado el día de ayer, se pronunció ante el proceso judicial de la masacre, el cual se da en el marco de un acelerado desmantelamiento del estado de derecho y de una sostenida campaña de acoso contra ese centro de estudios.
 
 Asimismo, citó que en la resolución de la audiencia inicial se advirtió un trato preferencial hacia algunos de los procesados con mayor grado dentro de la Fuerza Armada tal como sucedió en el pasado, parece que la historia se repite.
