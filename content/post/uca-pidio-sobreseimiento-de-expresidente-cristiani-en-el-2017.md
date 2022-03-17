@@ -5,7 +5,6 @@ title: UCA pidió sobreseimiento de expresidente Cristiani en el 2017
 excerpt: ''
 date: 2022-03-14T06:00:00+00:00
 hero: "/images/caso-jesuitas.jpg"
-draft: true
 
 ---
 **El director del Instituto de Derechos Humanos de la UCA (Idhuca), padre José María Tojeria, declaró que el expresidente de la República Alfredo Cristiani, no estuvo enterado de la masacre de los jesuitas y sus dos colaboradoras.**  
