@@ -5,7 +5,6 @@ title: UCA pide verdad y justica en el caso jesuitas.
 excerpt: ''
 date: 2022-03-25T06:00:00+00:00
 hero: "/images/recordando-a-los-mrtires-jesuitas-en-el-salvador.jpeg"
-draft: true
 
 ---
 **Para la casa de estudios, el proceso judicial se desarrolla en un acelerado desmantelamiento del Estado de derecho y en una campaña de acoso contra esta institución y sus adversarios políticos.**
