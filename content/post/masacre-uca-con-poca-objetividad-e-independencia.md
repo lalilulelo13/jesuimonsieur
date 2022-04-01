@@ -5,7 +5,6 @@ title: 'Masacre UCA con poca objetividad e independencia '
 excerpt: ''
 date: 
 hero: "/images/800px-martin_baro_montes1.jpg"
-draft: true
 
 ---
 **El caso jesuita se desarrolla en un proceso “enrarecido” porque hay un desmantelamiento del Estado de derecho.**
