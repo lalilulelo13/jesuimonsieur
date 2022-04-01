@@ -3,7 +3,7 @@ timeToRead: 8
 authors: []
 title: 'Masacre UCA con poca objetividad e independencia '
 excerpt: ''
-date: 
+date: 2022-03-30T06:00:00+00:00
 hero: "/images/800px-martin_baro_montes1.jpg"
 
 ---
