@@ -4,7 +4,7 @@ authors: []
 title: 'La Comisión de la Verdad: Grupo élite del ejército asesino a los sacerdotes
   jesuitas.'
 excerpt: ''
-date: 
+date: 2022-03-31T06:00:00+00:00
 hero: "/images/1599831528956.jpg"
 
 ---
