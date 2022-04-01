@@ -5,7 +5,6 @@ title: Esperan justicia transicional en el caso jesuitas
 excerpt: ''
 date: 2022-03-27T06:00:00+00:00
 hero: "/images/40049905-2329-47d0-b845-58b80d4ce895-678x381.png"
-draft: true
 
 ---
 **Con la reapertura de la masacre de los sacerdotes jesuitas y sus dos colaboradoras, la UCA espera llegar a la verdad con justicia, no venganza política.**

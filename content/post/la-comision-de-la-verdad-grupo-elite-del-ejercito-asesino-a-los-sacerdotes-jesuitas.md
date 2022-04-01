@@ -6,7 +6,6 @@ title: 'La Comisión de la Verdad: Grupo élite del ejército asesino a los sace
 excerpt: ''
 date: 
 hero: "/images/1599831528956.jpg"
-draft: true
 
 ---
 **El informe tuvo el apoyo de las Naciones Unidas y en el se acusó a miembros del Estado Mayor Conjunto y al Alto Mando.**
