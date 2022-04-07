@@ -6,7 +6,6 @@ title: 'Caso jesuitas: Fiscalía está alineada a defensores de militares acusad
 excerpt: ''
 date: 
 hero: "/images/efe_jesuitas_espana.jpg"
-draft: true
 
 ---
 **El abogado Arnau Baulenas, dijo que en este nuevo proceso, hay interés de apartar a las víctimas para que no participen activamente en la audiencia de la masacre dela UCA.**

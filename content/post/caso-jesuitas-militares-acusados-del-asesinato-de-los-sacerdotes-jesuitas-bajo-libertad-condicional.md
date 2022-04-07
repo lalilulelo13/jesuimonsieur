@@ -6,7 +6,6 @@ title: 'Caso Jesuitas: Militares acusados del asesinato de los sacerdotes jesuit
 excerpt: ''
 date: 
 hero: "/images/fnac06112020arcjesuitas1-jpg_525981578.webp"
-draft: true
 
 ---
 **El pasado 14 de marzo el juzgado 3º de Paz de San Salvador, favoreció a los implicados de la masacre de la UCA, pero ordenó la detención del expresidente Alfredo Cristiani.**
