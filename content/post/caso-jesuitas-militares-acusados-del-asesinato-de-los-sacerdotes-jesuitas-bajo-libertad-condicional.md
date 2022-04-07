@@ -4,7 +4,7 @@ authors: []
 title: 'Caso Jesuitas: Militares acusados del asesinato de los sacerdotes jesuitas
   bajo libertad condicional '
 excerpt: ''
-date: 
+date: 2022-04-06T06:00:00+00:00
 hero: "/images/fnac06112020arcjesuitas1-jpg_525981578.webp"
 
 ---
