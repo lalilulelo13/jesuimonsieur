@@ -4,7 +4,7 @@ authors: []
 title: 'Caso jesuitas: Fiscalía está alineada a defensores de militares acusados de
   asesinar a los sacerdotes jesuitas.'
 excerpt: ''
-date: 
+date: 2022-04-04T06:00:00+00:00
 hero: "/images/efe_jesuitas_espana.jpg"
 
 ---
