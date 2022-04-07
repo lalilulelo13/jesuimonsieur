@@ -6,7 +6,6 @@ title: 'Alfredo Cristiani: “La acusación en mi contra es parte del acoso pol�
 excerpt: ''
 date: 
 hero: "/images/el_salvador_reapertura_caso_jesuitas.jpg"
-draft: true
 
 ---
 **El informe de la Comisión de la Verdad, el reporte de la Comisión de EE.UU y la Audiencia Española, no vinculan al expresidente Cristiani con la masacre de la UCA. Fiscalía insiste en culparlo.**
