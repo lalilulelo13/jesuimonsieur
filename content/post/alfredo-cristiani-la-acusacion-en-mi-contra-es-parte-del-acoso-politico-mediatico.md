@@ -4,7 +4,7 @@ authors: []
 title: 'Alfredo Cristiani: “La acusación en mi contra es parte del acoso político
   mediático”.'
 excerpt: ''
-date: 
+date: 2022-04-01T06:00:00+00:00
 hero: "/images/el_salvador_reapertura_caso_jesuitas.jpg"
 
 ---
