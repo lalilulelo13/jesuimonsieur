@@ -5,7 +5,6 @@ title: Caso Jesuita con excesivo sesgo político
 excerpt: ''
 date: 2022-04-17T06:00:00+00:00
 hero: "/images/11467611w.webp"
-draft: true
 
 ---
 **Lejos de buscar la verdad y la justicia, el desarrollo judicial de la masacre de la UCA ha tomado un rumbo político.**
