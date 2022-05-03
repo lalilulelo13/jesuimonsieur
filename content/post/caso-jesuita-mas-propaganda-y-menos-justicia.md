@@ -1,5 +1,5 @@
 ---
-timeToRead: 8
+timeToRead: 7
 authors: []
 title: 'Caso Jesuita: Más propaganda y menos justicia'
 excerpt: ''
