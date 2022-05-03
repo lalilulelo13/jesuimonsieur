@@ -5,7 +5,6 @@ title: 'Caso Jesuita: Más propaganda y menos justicia'
 excerpt: ''
 date: 2022-04-29T06:00:00+00:00
 hero: "/images/_122603558_gettyimages-497195010.jpg"
-draft: true
 
 ---
 **La justicia salvadoreña ignora informe de la Comisión de la Verdad para crear sus propios argumentos y enjuiciar a sus opositores a fin de ganar popularidad a costa de este crimen de lesa humanidad.**
