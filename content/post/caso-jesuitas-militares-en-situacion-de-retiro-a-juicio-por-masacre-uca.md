@@ -5,7 +5,6 @@ title: 'Caso Jesuitas: militares en situación de retiro a juicio por masacre UC
 excerpt: ''
 date: 2022-05-02T06:00:00+00:00
 hero: "/images/20220107_084412323_fnac08012022arcjes3843-jpg_525981578.webp"
-draft: true
 
 ---
 **Los exmiembros del Alto Mando de la Fuerza Armada se les acusa de haber ejecutado a los sacerdotes jesuitas.**
