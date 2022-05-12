@@ -6,7 +6,6 @@ title: UCA calificó de “enrarecido” el inicio del proceso del asesinato de 
 excerpt: ''
 date: 2022-05-06T06:00:00+00:00
 hero: "/images/cq5dam-thumbnail-cropped-1500-844.jpeg"
-draft: true
 
 ---
 **La masacre de la UCA no solo se desarrolla en un ambiente de desmantelando el Estado de Derecho sino también dentro de una campaña de acoso contra esta institución.**
