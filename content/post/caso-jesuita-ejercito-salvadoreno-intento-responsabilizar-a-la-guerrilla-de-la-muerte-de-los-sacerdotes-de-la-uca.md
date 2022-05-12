@@ -6,7 +6,6 @@ title: 'Caso Jesuita: Ejercito salvadoreño intentó responsabilizar a la guerri
 excerpt: ''
 date: 2022-05-11T06:00:00+00:00
 hero: "/images/jesuitas-centroamerica.jpg"
-draft: true
 
 ---
 **Un testigo señaló a los millares de ser los responsables de la masacre de los Jesuitas.**
