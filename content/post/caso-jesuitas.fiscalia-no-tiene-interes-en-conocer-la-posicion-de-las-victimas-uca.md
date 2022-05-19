@@ -6,7 +6,6 @@ title: 'Caso Jesuitas. “Fiscalía no tiene interés en conocer la posición de
 excerpt: ''
 date: 2022-05-17T06:00:00+00:00
 hero: "/images/get_img.jfif"
-draft: true
 
 ---
 Ante el proceso judicial iniciado en el caso del asesinato de seis sacerdotes jesuitas y sus dos empleadas, esta casa de estudio denuncia que ha sido apartada como víctima en la reapertura del caso jesuitas.
