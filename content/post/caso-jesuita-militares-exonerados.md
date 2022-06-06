@@ -5,7 +5,6 @@ title: 'Caso jesuita: Militares exonerados '
 excerpt: ''
 date: 2022-06-03T06:00:00+00:00
 hero: "/images/imagen.jfif"
-draft: true
 
 ---
 **Los fallecidos General Emilio Ponce y el coronel Elene Fuentes, acusados ser parte de los autores intelectuales de la masacre en la UCA fueron exonerados del proceso**.
