@@ -6,7 +6,6 @@ title: 'Caso Jesuitas: Una de las graves violaciones que el gobierno salvadoreñ
 excerpt: ''
 date: 2022-06-09T06:00:00+00:00
 hero: "/images/martires-uca_1628847280_10883149_660x371.jpg"
-draft: true
 
 ---
 **La masacre en la UCA fue un crimen de lesa humanidad y se enmarcó en la persecución y agresión.**
