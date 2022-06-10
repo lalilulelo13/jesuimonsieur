@@ -5,7 +5,6 @@ title: 'Caso Jesuita: Inocente Montano, coautor intelectual '
 excerpt: ''
 date: 2022-06-05T06:00:00+00:00
 hero: "/images/40049905-2329-47d0-b845-58b80d4ce895-678x381-1.png"
-draft: true
 
 ---
 **Un pelotón del** [**Batallón Atlacatl**](https://wikisivar.com/masacre-de-los-sacerdotes-jesuitas/)**, una unidad de élite de las fuerzas militares salvadoreñas cumplió las órdenes del Alto Mando del ejército para cometer este crimen de lesa humanidad.**
